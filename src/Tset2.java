@@ -4,7 +4,7 @@ public class Tset2{
 		if (hungry == "yes")
 			System.out.println("eat somthing healthy....");
 		else {
-			System.out.println("Do Work hard...");
+			System.out.println("Do Work hard and enjoy...");
 		}
 	}
 }
